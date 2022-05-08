@@ -1,0 +1,15 @@
+D:\Projects\nyumba pili\Topics\IFStatements\bin\Debug\net6.0\IFStatements.exe
+D:\Projects\nyumba pili\Topics\IFStatements\bin\Debug\net6.0\IFStatements.deps.json
+D:\Projects\nyumba pili\Topics\IFStatements\bin\Debug\net6.0\IFStatements.runtimeconfig.json
+D:\Projects\nyumba pili\Topics\IFStatements\bin\Debug\net6.0\IFStatements.dll
+D:\Projects\nyumba pili\Topics\IFStatements\bin\Debug\net6.0\IFStatements.pdb
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.csproj.AssemblyReference.cache
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.AssemblyInfoInputs.cache
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.AssemblyInfo.cs
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.csproj.CoreCompileInputs.cache
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.dll
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\refint\IFStatements.dll
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.pdb
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\IFStatements.genruntimeconfig.cache
+D:\Projects\nyumba pili\Topics\IFStatements\obj\Debug\net6.0\ref\IFStatements.dll

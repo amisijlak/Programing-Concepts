@@ -1,0 +1,15 @@
+D:\Projects\nyumba pili\Topics\ValidationClass\bin\Debug\net6.0\ValidationClass.exe
+D:\Projects\nyumba pili\Topics\ValidationClass\bin\Debug\net6.0\ValidationClass.deps.json
+D:\Projects\nyumba pili\Topics\ValidationClass\bin\Debug\net6.0\ValidationClass.runtimeconfig.json
+D:\Projects\nyumba pili\Topics\ValidationClass\bin\Debug\net6.0\ValidationClass.dll
+D:\Projects\nyumba pili\Topics\ValidationClass\bin\Debug\net6.0\ValidationClass.pdb
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.csproj.AssemblyReference.cache
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.AssemblyInfoInputs.cache
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.AssemblyInfo.cs
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.csproj.CoreCompileInputs.cache
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.dll
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\refint\ValidationClass.dll
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.pdb
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ValidationClass.genruntimeconfig.cache
+D:\Projects\nyumba pili\Topics\ValidationClass\obj\Debug\net6.0\ref\ValidationClass.dll

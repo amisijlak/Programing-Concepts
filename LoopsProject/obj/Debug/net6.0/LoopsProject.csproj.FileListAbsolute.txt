@@ -1,0 +1,15 @@
+D:\Projects\nyumba pili\Topics\LoopsProject\bin\Debug\net6.0\LoopsProject.exe
+D:\Projects\nyumba pili\Topics\LoopsProject\bin\Debug\net6.0\LoopsProject.deps.json
+D:\Projects\nyumba pili\Topics\LoopsProject\bin\Debug\net6.0\LoopsProject.runtimeconfig.json
+D:\Projects\nyumba pili\Topics\LoopsProject\bin\Debug\net6.0\LoopsProject.dll
+D:\Projects\nyumba pili\Topics\LoopsProject\bin\Debug\net6.0\LoopsProject.pdb
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.csproj.AssemblyReference.cache
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.AssemblyInfoInputs.cache
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.AssemblyInfo.cs
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.csproj.CoreCompileInputs.cache
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.dll
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\refint\LoopsProject.dll
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.pdb
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\LoopsProject.genruntimeconfig.cache
+D:\Projects\nyumba pili\Topics\LoopsProject\obj\Debug\net6.0\ref\LoopsProject.dll

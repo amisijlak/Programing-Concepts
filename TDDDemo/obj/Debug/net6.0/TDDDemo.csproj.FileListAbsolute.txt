@@ -1,0 +1,12 @@
+D:\Projects\nyumba pili\Topics\TDDDemo\bin\Debug\net6.0\TDDDemo.deps.json
+D:\Projects\nyumba pili\Topics\TDDDemo\bin\Debug\net6.0\TDDDemo.dll
+D:\Projects\nyumba pili\Topics\TDDDemo\bin\Debug\net6.0\TDDDemo.pdb
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\TDDDemo.csproj.AssemblyReference.cache
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\TDDDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\TDDDemo.AssemblyInfoInputs.cache
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\TDDDemo.AssemblyInfo.cs
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\TDDDemo.csproj.CoreCompileInputs.cache
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\TDDDemo.dll
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\refint\TDDDemo.dll
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\TDDDemo.pdb
+D:\Projects\nyumba pili\Topics\TDDDemo\obj\Debug\net6.0\ref\TDDDemo.dll

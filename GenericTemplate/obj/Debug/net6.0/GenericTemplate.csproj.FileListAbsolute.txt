@@ -1,0 +1,15 @@
+D:\Projects\nyumba pili\Topics\GenericTemplate\bin\Debug\net6.0\GenericTemplate.exe
+D:\Projects\nyumba pili\Topics\GenericTemplate\bin\Debug\net6.0\GenericTemplate.deps.json
+D:\Projects\nyumba pili\Topics\GenericTemplate\bin\Debug\net6.0\GenericTemplate.runtimeconfig.json
+D:\Projects\nyumba pili\Topics\GenericTemplate\bin\Debug\net6.0\GenericTemplate.dll
+D:\Projects\nyumba pili\Topics\GenericTemplate\bin\Debug\net6.0\GenericTemplate.pdb
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.csproj.AssemblyReference.cache
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.AssemblyInfoInputs.cache
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.AssemblyInfo.cs
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.csproj.CoreCompileInputs.cache
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.dll
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\refint\GenericTemplate.dll
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.pdb
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\GenericTemplate.genruntimeconfig.cache
+D:\Projects\nyumba pili\Topics\GenericTemplate\obj\Debug\net6.0\ref\GenericTemplate.dll
